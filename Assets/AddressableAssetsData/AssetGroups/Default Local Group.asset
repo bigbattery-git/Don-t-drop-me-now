@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bc86a7e48ec96724a97790756b38dd47
+  m_SerializeEntries:
+  - m_GUID: 29bb802b2bec4dc4f9cf84add801e54b
+    m_Address: Target
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d487ae1ab921b6469fa2f7a0880e962
+    m_Address: GreenItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2383843d21116e840a9f2437688edfc5
+    m_Address: BlueItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e233a90abea4cb4fb826d467f18db71
+    m_Address: RedItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16a240d3607dd1d4dae875ca9a5f410c
+    m_Address: GameOverUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c9cfa26abfee488c85f1582747f6a02
+    m_Address: GameScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc5af015011ea3745b7f78ea1dd1049f
+    m_Address: Game
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06906d718be5b6a4cb2df8732bf39832
+    m_Address: Main
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c5292ba5cf254919a6b9e2b18e04f49
+    m_Address: Target
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c008ee3ee72a4362a35be25fa5de043
+    m_Address: Item
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 724131bc8a7f34041bb9f1701f0cb58d
+    m_Address: Button
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c217a42be581354391c8297ba4559a8
+    m_Address: Setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2c4dc29f05440834a87cb639289eda22, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4dcb5e1cc72521a40a8cf9796ef66706, type: 2}
+    - {fileID: 11400000, guid: 0cdb80466223d6449be4604bd4c4fc02, type: 2}
